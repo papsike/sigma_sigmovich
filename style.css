@@ -1,0 +1,57 @@
+header{
+    height:200px ;
+    background-color: rgb(55, 0, 255);
+    color: #000000;
+    text-align: center;
+    font-size: 100px; 
+    background-image: url(https://i.insider.com/602ee9ced3ad27001837f2ac?width=700);
+    
+    text-shadow: #000000;
+
+}
+main{
+    height: 1000px ;
+    background-color: rgb(166, 255, 0);
+    color: #ff0000;
+    text-align: center;
+    font-size: 100px;
+    background-image: url(https://minio.nplus1.ru/app-images/170948/976259dd629a203e782f0515f7fee3a9.jpg);
+
+    font-family: cursive;
+
+    text-shadow:50px 50px 52px rgb(0, 0, 0);;
+    display: flex;
+
+}
+
+.left{
+    width: 50%;
+
+.right{
+    width:  50%;
+}
+
+}
+
+footer{
+    height: 1000px ;
+    background-color: rgb(37, 219, 0);
+    color: #c8ff00;
+    text-align: bottom;
+    font-size: 100px;
+    background-image: url(https://cs13.pikabu.ru/post_img/big/2023/03/31/2/168022441513061338.jpg);
+    background-size: cover;
+    background-position-y: bottom;
+
+font-family:cursive;
+
+text-shadow:50px 50px 520px rgb(0, 0, 0);
+
+}
+
+.social img{
+    width: 100px;
+}
+.social 
+    display: flex;
+
